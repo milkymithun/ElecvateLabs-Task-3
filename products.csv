@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+P001,Product 1,Furniture,449.66
+P002,Product 2,Furniture,306.32
+P003,Product 3,Furniture,49.82
+P004,Product 4,Technology,51.27
+P005,Product 5,Office Supplies,18.6
+P006,Product 6,Technology,193.4
+P007,Product 7,Furniture,366.96
+P008,Product 8,Furniture,44.15
+P009,Product 9,Office Supplies,165.08
+P010,Product 10,Technology,92.8
+P011,Product 11,Furniture,120.32
+P012,Product 12,Office Supplies,285.94
+P013,Product 13,Technology,149.88
+P014,Product 14,Furniture,228.45
+P015,Product 15,Technology,479.23
+P016,Product 16,Technology,334.53
+P017,Product 17,Office Supplies,442.95
+P018,Product 18,Technology,177.78
+P019,Product 19,Office Supplies,338.8
+P020,Product 20,Furniture,433.52
+P021,Product 21,Technology,142.85
+P022,Product 22,Office Supplies,261.65
+P023,Product 23,Technology,483.51
+P024,Product 24,Technology,223.52
+P025,Product 25,Furniture,395.38
+P026,Product 26,Furniture,366.3
+P027,Product 27,Office Supplies,440.95
+P028,Product 28,Furniture,136.35
+P029,Product 29,Furniture,107.87
+P030,Product 30,Technology,414.23
+P031,Product 31,Furniture,308.7
+P032,Product 32,Office Supplies,71.92
+P033,Product 33,Technology,420.23
+P034,Product 34,Technology,448.83
+P035,Product 35,Technology,356.75
+P036,Product 36,Office Supplies,205.78
+P037,Product 37,Office Supplies,278.73
+P038,Product 38,Furniture,193.84
+P039,Product 39,Office Supplies,489.23
+P040,Product 40,Office Supplies,238.81
+P041,Product 41,Office Supplies,349.61
+P042,Product 42,Furniture,426.43
+P043,Product 43,Furniture,425.75
+P044,Product 44,Furniture,464.43
+P045,Product 45,Furniture,461.89
+P046,Product 46,Furniture,263.69
+P047,Product 47,Technology,33.88
+P048,Product 48,Technology,119.19
+P049,Product 49,Technology,422.77
+P050,Product 50,Office Supplies,402.61
+P051,Product 51,Technology,285.35
+P052,Product 52,Office Supplies,271.88
+P053,Product 53,Furniture,433.19
+P054,Product 54,Office Supplies,95.01
+P055,Product 55,Furniture,380.38
+P056,Product 56,Office Supplies,312.97
+P057,Product 57,Furniture,205.97
+P058,Product 58,Technology,491.43
+P059,Product 59,Office Supplies,100.51
+P060,Product 60,Furniture,339.96
+P061,Product 61,Office Supplies,422.66
+P062,Product 62,Furniture,275.98
+P063,Product 63,Technology,300.95
+P064,Product 64,Furniture,224.69
+P065,Product 65,Furniture,462.36
+P066,Product 66,Technology,344.37
+P067,Product 67,Technology,30.83
+P068,Product 68,Technology,494.8
+P069,Product 69,Technology,107.29
+P070,Product 70,Furniture,341.32
+P071,Product 71,Technology,468.35
+P072,Product 72,Technology,70.77
+P073,Product 73,Technology,349.68
+P074,Product 74,Office Supplies,132.18
+P075,Product 75,Furniture,40.42
+P076,Product 76,Furniture,54.13
+P077,Product 77,Technology,112.9
+P078,Product 78,Office Supplies,306.9
+P079,Product 79,Technology,491.72
+P080,Product 80,Technology,132.89
+P081,Product 81,Technology,372
+P082,Product 82,Office Supplies,67.11
+P083,Product 83,Technology,40.23
+P084,Product 84,Technology,194.43
+P085,Product 85,Technology,399.61
+P086,Product 86,Office Supplies,364.33
+P087,Product 87,Furniture,108.4
+P088,Product 88,Furniture,187.22
+P089,Product 89,Office Supplies,167
+P090,Product 90,Furniture,189.75
+P091,Product 91,Technology,409.48
+P092,Product 92,Furniture,169.66
+P093,Product 93,Office Supplies,269.2
+P094,Product 94,Technology,253.92
+P095,Product 95,Technology,357.23
+P096,Product 96,Technology,351.28
+P097,Product 97,Furniture,135.93
+P098,Product 98,Technology,458.08
+P099,Product 99,Technology,441.72
+P100,Product 100,Office Supplies,470.4

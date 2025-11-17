@@ -1,0 +1,201 @@
+customer_id,customer_name,segment,city
+C001,Customer 1,Consumer,Delhi
+C002,Customer 2,Home Office,Bangalore
+C003,Customer 3,Home Office,Delhi
+C004,Customer 4,Consumer,Delhi
+C005,Customer 5,Corporate,Hyderabad
+C006,Customer 6,Home Office,Hyderabad
+C007,Customer 7,Home Office,Hyderabad
+C008,Customer 8,Corporate,Hyderabad
+C009,Customer 9,Home Office,Mumbai
+C010,Customer 10,Corporate,Delhi
+C011,Customer 11,Consumer,Bangalore
+C012,Customer 12,Home Office,Delhi
+C013,Customer 13,Consumer,Mumbai
+C014,Customer 14,Home Office,Bangalore
+C015,Customer 15,Consumer,Hyderabad
+C016,Customer 16,Home Office,Bangalore
+C017,Customer 17,Home Office,Delhi
+C018,Customer 18,Corporate,Hyderabad
+C019,Customer 19,Corporate,Chennai
+C020,Customer 20,Home Office,Bangalore
+C021,Customer 21,Consumer,Chennai
+C022,Customer 22,Corporate,Delhi
+C023,Customer 23,Corporate,Mumbai
+C024,Customer 24,Consumer,Hyderabad
+C025,Customer 25,Home Office,Delhi
+C026,Customer 26,Corporate,Delhi
+C027,Customer 27,Corporate,Delhi
+C028,Customer 28,Home Office,Bangalore
+C029,Customer 29,Home Office,Delhi
+C030,Customer 30,Home Office,Delhi
+C031,Customer 31,Corporate,Chennai
+C032,Customer 32,Consumer,Chennai
+C033,Customer 33,Corporate,Bangalore
+C034,Customer 34,Corporate,Chennai
+C035,Customer 35,Home Office,Bangalore
+C036,Customer 36,Corporate,Delhi
+C037,Customer 37,Consumer,Delhi
+C038,Customer 38,Home Office,Bangalore
+C039,Customer 39,Corporate,Chennai
+C040,Customer 40,Home Office,Chennai
+C041,Customer 41,Corporate,Delhi
+C042,Customer 42,Consumer,Delhi
+C043,Customer 43,Corporate,Hyderabad
+C044,Customer 44,Home Office,Bangalore
+C045,Customer 45,Consumer,Bangalore
+C046,Customer 46,Consumer,Bangalore
+C047,Customer 47,Corporate,Bangalore
+C048,Customer 48,Corporate,Chennai
+C049,Customer 49,Consumer,Chennai
+C050,Customer 50,Consumer,Hyderabad
+C051,Customer 51,Home Office,Chennai
+C052,Customer 52,Corporate,Chennai
+C053,Customer 53,Corporate,Chennai
+C054,Customer 54,Home Office,Delhi
+C055,Customer 55,Home Office,Delhi
+C056,Customer 56,Consumer,Delhi
+C057,Customer 57,Consumer,Chennai
+C058,Customer 58,Consumer,Bangalore
+C059,Customer 59,Corporate,Bangalore
+C060,Customer 60,Consumer,Mumbai
+C061,Customer 61,Home Office,Mumbai
+C062,Customer 62,Home Office,Hyderabad
+C063,Customer 63,Consumer,Delhi
+C064,Customer 64,Consumer,Hyderabad
+C065,Customer 65,Consumer,Chennai
+C066,Customer 66,Corporate,Bangalore
+C067,Customer 67,Consumer,Hyderabad
+C068,Customer 68,Consumer,Bangalore
+C069,Customer 69,Corporate,Delhi
+C070,Customer 70,Corporate,Chennai
+C071,Customer 71,Consumer,Mumbai
+C072,Customer 72,Home Office,Chennai
+C073,Customer 73,Home Office,Bangalore
+C074,Customer 74,Corporate,Bangalore
+C075,Customer 75,Home Office,Chennai
+C076,Customer 76,Home Office,Delhi
+C077,Customer 77,Consumer,Mumbai
+C078,Customer 78,Consumer,Chennai
+C079,Customer 79,Home Office,Hyderabad
+C080,Customer 80,Consumer,Chennai
+C081,Customer 81,Home Office,Mumbai
+C082,Customer 82,Home Office,Bangalore
+C083,Customer 83,Corporate,Chennai
+C084,Customer 84,Corporate,Chennai
+C085,Customer 85,Home Office,Hyderabad
+C086,Customer 86,Corporate,Hyderabad
+C087,Customer 87,Corporate,Bangalore
+C088,Customer 88,Consumer,Mumbai
+C089,Customer 89,Corporate,Chennai
+C090,Customer 90,Home Office,Hyderabad
+C091,Customer 91,Corporate,Bangalore
+C092,Customer 92,Corporate,Hyderabad
+C093,Customer 93,Corporate,Mumbai
+C094,Customer 94,Consumer,Hyderabad
+C095,Customer 95,Corporate,Bangalore
+C096,Customer 96,Consumer,Bangalore
+C097,Customer 97,Consumer,Bangalore
+C098,Customer 98,Home Office,Mumbai
+C099,Customer 99,Home Office,Mumbai
+C100,Customer 100,Home Office,Chennai
+C101,Customer 101,Consumer,Chennai
+C102,Customer 102,Corporate,Chennai
+C103,Customer 103,Home Office,Delhi
+C104,Customer 104,Corporate,Bangalore
+C105,Customer 105,Home Office,Hyderabad
+C106,Customer 106,Corporate,Delhi
+C107,Customer 107,Corporate,Chennai
+C108,Customer 108,Consumer,Delhi
+C109,Customer 109,Home Office,Chennai
+C110,Customer 110,Corporate,Hyderabad
+C111,Customer 111,Corporate,Bangalore
+C112,Customer 112,Home Office,Hyderabad
+C113,Customer 113,Home Office,Chennai
+C114,Customer 114,Home Office,Chennai
+C115,Customer 115,Home Office,Bangalore
+C116,Customer 116,Home Office,Chennai
+C117,Customer 117,Consumer,Bangalore
+C118,Customer 118,Home Office,Delhi
+C119,Customer 119,Home Office,Delhi
+C120,Customer 120,Consumer,Mumbai
+C121,Customer 121,Consumer,Hyderabad
+C122,Customer 122,Corporate,Hyderabad
+C123,Customer 123,Corporate,Mumbai
+C124,Customer 124,Consumer,Bangalore
+C125,Customer 125,Corporate,Delhi
+C126,Customer 126,Corporate,Hyderabad
+C127,Customer 127,Corporate,Delhi
+C128,Customer 128,Home Office,Bangalore
+C129,Customer 129,Home Office,Mumbai
+C130,Customer 130,Consumer,Hyderabad
+C131,Customer 131,Consumer,Delhi
+C132,Customer 132,Consumer,Bangalore
+C133,Customer 133,Home Office,Mumbai
+C134,Customer 134,Home Office,Bangalore
+C135,Customer 135,Home Office,Delhi
+C136,Customer 136,Consumer,Delhi
+C137,Customer 137,Consumer,Delhi
+C138,Customer 138,Consumer,Chennai
+C139,Customer 139,Corporate,Hyderabad
+C140,Customer 140,Corporate,Hyderabad
+C141,Customer 141,Home Office,Bangalore
+C142,Customer 142,Corporate,Hyderabad
+C143,Customer 143,Home Office,Delhi
+C144,Customer 144,Home Office,Chennai
+C145,Customer 145,Corporate,Chennai
+C146,Customer 146,Consumer,Delhi
+C147,Customer 147,Corporate,Hyderabad
+C148,Customer 148,Home Office,Bangalore
+C149,Customer 149,Consumer,Chennai
+C150,Customer 150,Consumer,Hyderabad
+C151,Customer 151,Home Office,Bangalore
+C152,Customer 152,Home Office,Chennai
+C153,Customer 153,Corporate,Delhi
+C154,Customer 154,Corporate,Chennai
+C155,Customer 155,Home Office,Mumbai
+C156,Customer 156,Corporate,Mumbai
+C157,Customer 157,Consumer,Delhi
+C158,Customer 158,Home Office,Chennai
+C159,Customer 159,Consumer,Bangalore
+C160,Customer 160,Corporate,Bangalore
+C161,Customer 161,Consumer,Bangalore
+C162,Customer 162,Home Office,Hyderabad
+C163,Customer 163,Corporate,Delhi
+C164,Customer 164,Consumer,Delhi
+C165,Customer 165,Home Office,Bangalore
+C166,Customer 166,Corporate,Delhi
+C167,Customer 167,Consumer,Delhi
+C168,Customer 168,Home Office,Delhi
+C169,Customer 169,Home Office,Delhi
+C170,Customer 170,Home Office,Hyderabad
+C171,Customer 171,Consumer,Delhi
+C172,Customer 172,Consumer,Hyderabad
+C173,Customer 173,Consumer,Delhi
+C174,Customer 174,Consumer,Bangalore
+C175,Customer 175,Consumer,Hyderabad
+C176,Customer 176,Corporate,Chennai
+C177,Customer 177,Home Office,Bangalore
+C178,Customer 178,Consumer,Chennai
+C179,Customer 179,Corporate,Delhi
+C180,Customer 180,Corporate,Mumbai
+C181,Customer 181,Home Office,Mumbai
+C182,Customer 182,Consumer,Hyderabad
+C183,Customer 183,Consumer,Delhi
+C184,Customer 184,Home Office,Mumbai
+C185,Customer 185,Corporate,Chennai
+C186,Customer 186,Home Office,Hyderabad
+C187,Customer 187,Corporate,Bangalore
+C188,Customer 188,Home Office,Bangalore
+C189,Customer 189,Corporate,Bangalore
+C190,Customer 190,Home Office,Delhi
+C191,Customer 191,Consumer,Hyderabad
+C192,Customer 192,Home Office,Mumbai
+C193,Customer 193,Corporate,Mumbai
+C194,Customer 194,Home Office,Chennai
+C195,Customer 195,Consumer,Bangalore
+C196,Customer 196,Consumer,Delhi
+C197,Customer 197,Consumer,Hyderabad
+C198,Customer 198,Consumer,Hyderabad
+C199,Customer 199,Home Office,Hyderabad
+C200,Customer 200,Corporate,Chennai
